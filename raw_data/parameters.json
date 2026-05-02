@@ -1,1 +1,12 @@
-
+[
+  { "sourceFile": "AdventureWorks_Calendar.csv", "targetFile": "Calendar.csv" },
+  { "sourceFile": "AdventureWorks_Customers.csv", "targetFile": "Customers.csv" },
+  { "sourceFile": "AdventureWorks_Product_Categories.csv", "targetFile": "ProductCategories.csv" },
+  { "sourceFile": "AdventureWorks_Product_Subcategories.csv", "targetFile": "ProductSubcategories.csv" },
+  { "sourceFile": "AdventureWorks_Products.csv", "targetFile": "Products.csv" },
+  { "sourceFile": "AdventureWorks_Returns.csv", "targetFile": "Returns.csv" },
+  { "sourceFile": "AdventureWorks_Sales_2015.csv", "targetFile": "Sales_2015.csv" },
+  { "sourceFile": "AdventureWorks_Sales_2016.csv", "targetFile": "Sales_2016.csv" },
+  { "sourceFile": "AdventureWorks_Sales_2017.csv", "targetFile": "Sales_2017.csv" },
+  { "sourceFile": "AdventureWorks_Territories.csv", "targetFile": "Territories.csv" }
+]
